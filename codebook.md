@@ -8,7 +8,7 @@ Variable name    | Description
 -----------------|------------
 subjects         | ID of the subject.
 activity_name    | Activity name.
-feat_name        | Time domain signal or frequency domain signal (Time or Freq).
+feat_domain      | Time domain signal or frequency domain signal (Time or Freq).
 feat_instrument  | Measuring instrument (Accelerometer or Gyroscope).
 feat_accleration | Acceleration signal (Body or Gravity).
 feat_variable    | Variable (Mean or SD).
